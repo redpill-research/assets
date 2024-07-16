@@ -1,0 +1,24 @@
+{
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": "1"
+        },
+        {
+            "trait_type": "Access Level",
+            "value": "Early access"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Access Start:",
+            "value": 1721635200
+        }
+    ],
+    "background_color": "#FFD700",
+    "description": "NFT for early access to Atlas.",
+    "external_url": "https://atls.rs",
+    "image": "https://raw.githubusercontent.com/redpill-research/assets/main/nft/invite-card/card.png",
+    "image_url": "https://raw.githubusercontent.com/redpill-research/assets/main/nft/invite-card/card.png",
+    "name": "ATLAS KEY CARD NFT"
+}
